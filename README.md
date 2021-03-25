@@ -1,1 +1,0 @@
-Simple console database program to store people and their vehicles.
